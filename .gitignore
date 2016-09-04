@@ -1,0 +1,9 @@
+# idea files
+.idea
+*.iml
+
+# downloadble dependencies
+node_modules
+
+# generated files
+public/js
