@@ -7,3 +7,7 @@ node_modules
 
 # generated files
 public/js
+/.vs/btest/v14
+/typings
+*.njsproj
+*.sln
