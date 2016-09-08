@@ -11,3 +11,4 @@ public/js
 /typings
 *.njsproj
 *.sln
+/public/debug.log
