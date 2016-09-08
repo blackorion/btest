@@ -36,7 +36,6 @@ module.exports = {
         showModal: function (ev) {
             var myName = $(ev.currentTarget).text();
             var elem = this.collection.findWhere({ name: myName });
-            console.log(elem);
 
             this.myModalWindow.show("Name is " + myName + "</br>" + "Age is " + elem.attributes.age);
         }
